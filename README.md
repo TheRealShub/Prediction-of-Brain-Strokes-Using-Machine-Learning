@@ -34,8 +34,8 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/brain-stroke-prediction.git
-cd brain-stroke-prediction
+git clone https://github.com/TheRealShub/Prediction-of-Brain-Strokes-Using-Machine-Learning.git
+cd Prediction-of-Brain-Strokes-Using-Machine-Learning
 Install dependencies:
 
 Copy code
