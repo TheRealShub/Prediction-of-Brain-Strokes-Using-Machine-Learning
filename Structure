@@ -1,0 +1,15 @@
+Brain-Stroke-Prediction/
+├── data/
+│   ├── raw/                 # Raw data files
+│   ├── processed/           # Preprocessed data files
+├── notebooks/               # Jupyter notebooks for data exploration and model development
+├── src/
+│   ├── data_preprocessing.py  # Data preprocessing scripts
+│   ├── feature_selection.py   # Feature selection scripts
+│   ├── model_training.py      # Model training scripts
+│   ├── model_evaluation.py    # Model evaluation scripts
+├── app/
+│   ├── app.py                # Deployment script (e.g., Flask or Streamlit app)
+├── README.md
+├── requirements.txt
+└── LICENSE
